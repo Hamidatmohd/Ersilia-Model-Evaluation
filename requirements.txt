@@ -1,1 +1,7 @@
-
+rdkit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+soltrannet
